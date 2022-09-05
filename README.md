@@ -11,7 +11,7 @@
 <h5>
 Check out some of our other projects!
 
-Technical Trading Strategy: 
+Technical Trading Strategy: https://github.com/finnbergquist/Stock-Trading-Q-Learner
 
 Q Trader Trading Strategy: 
 
