@@ -9,9 +9,7 @@
  </h3>
  
 <h5>
-Check out some of our other projects!
-
-Technical Trading Strategy: 
+Check out one of our other projects!
 
 Q Trader Trading Strategy: https://github.com/finnbergquist/Stock-Trading-Q-Learner
 
