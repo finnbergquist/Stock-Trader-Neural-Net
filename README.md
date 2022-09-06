@@ -1,6 +1,6 @@
 
 
-<h1> Deep Q Learner Stock Trader </h1>
+<h1> Deep Q Learner Stock Trader by Finn Bergquist and Evan Knight</h1>
 
 <h3> In this Project, we built a neural network to trade stocks. We tested it's performance In and Out of Sample.
   
